@@ -15,7 +15,7 @@ echo "<br/>";
 echo "<br/>";
 
 if ($_POST[id] == esgun) {
-    if ($_POST[password] == dlfemd) {
+    if ($_POST[password] == 111111) {
         echo "\"esgun\"에 대한 정보가 일치합니다";
     }
     else {
